@@ -3,7 +3,7 @@ layout: page
 title: 소개
 permalink: /about/
 ---
-뀰로그입니다. 비건 지향. 책 읽고 독후감 써요.
+비거니즘 공부 블로그입니다.
 
 좋아하는 문구들:
 
