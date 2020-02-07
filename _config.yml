@@ -26,7 +26,6 @@ lang: ko
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
   - jemoji
