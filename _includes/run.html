@@ -1,0 +1,31 @@
+<script>
+(function() {
+    const candidates = document.querySelectorAll('code')
+    const codeEls = []
+    for(let i = 0; i < candidates.length; i++) {
+        if(candidates[i].textContent.trim().startsWith('// @run'))
+            codeEls.push(candidates[i])
+    }
+
+    for(let i = 0; i < codeEls.length; i++) {
+        const src = codeEls[i].textContent
+        const container = codeEls[i].parentNode.parentNode.parentNode
+
+        const el = document.createElement('div')
+        container.parentNode.insertBefore(el, container)
+
+        try {
+            // create output container
+            const width = el.clientWidth;
+
+            // run
+            (new Function('width', 'element', src))(width, el)
+
+            // hide code container
+            container.style.display = 'none'
+        } catch (e) {
+            el.textContent = e
+        }
+    }
+})();
+</script>

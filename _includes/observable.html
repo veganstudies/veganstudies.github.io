@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@3/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js"
+import notebook from "{{ page.observable }}"
+
+new Runtime().module(notebook, name => {
+  name = (name || '').replace(/ /g, '-')
+  const el = document.querySelector('#ob-' + name)
+  if(el) return new Inspector(el)
+})
+</script>

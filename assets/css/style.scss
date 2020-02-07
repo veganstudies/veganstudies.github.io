@@ -1,0 +1,85 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    font: 400 16px/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #f9fff9;
+}
+
+a {
+    color: #0050b9;
+}
+
+blockquote {
+    color: #555555;
+    border-left-color: #CCCCCC;
+}
+
+.footer-col-wrapper {
+    color: #555555;
+}
+
+.post-meta {
+    color: #555555;
+}
+
+article.post {
+    .toc {
+        max-width: 25em;
+        margin-left: 0;
+        margin-bottom: 2em;
+        border: 1px solid #ACA;
+        padding: 1em 2em 1em 4em;
+
+        li {
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+        }
+
+        &, ol {
+            list-style-type: none;
+            counter-reset: item;
+        }
+        li:before {
+            content: counters(item, ".") ".";
+            counter-increment: item;
+            display: inline-block;
+            width: 2em;
+            margin-left: -2em;
+        }
+    }
+
+    .post-content {
+        h2 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 22px;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 1.5em;
+            line-height: 1.4;
+
+            &:first-child {
+                margin-top: 1em;
+            }
+        }
+
+        blockquote {
+            font-size: inherit;
+            letter-spacing: inherit;
+            font-style: inherit;
+        }
+    }
+}
+
+// Observable
+
+.ob-block {
+  margin: 1em 0;
+}

@@ -1,0 +1,28 @@
+name: Update data
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'assets/data/**'
+  schedule:
+    - cron: "*/15 * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - name: Fetch and commit
+      run: |
+        wget "https://docs.google.com/spreadsheets/d/1-6_NKb513lyw7fZA2EPghJyvGEYzEgkjEaImw9kRni4/gviz/tq?tqx=out:csv&sheet=raw" -O assets/data/places.csv
+        git add assets/data/places.csv
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m 'Update data' || true
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

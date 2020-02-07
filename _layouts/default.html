@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    {%- if page.minimal != true -%}
+    {%- include header.html -%}
+    {%- endif -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- if page.minimal != true -%}
+    {%- include footer.html -%}
+    {%- endif -%}
+
+    {%- if page.observable -%}
+      {%- include observable.html -%}
+    {%- endif -%}
+
+    {%- for lib in page.libs -%}
+      {%- if lib == 'vega' -%}
+      <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vega-lite-api@0.1.0/build/vega-lite-api.min.js"></script>
+      {%- elsif lib == 'd3' -%}
+      <script src="https://cdn.jsdelivr.net/npm/d3@5"></script>
+      {%- elsif lib == 'mermaid' -%}
+      <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.4/dist/mermaid.min.js"></script>
+      <script>
+        mermaid.initialize({startOnLoad:true});
+      </script>
+      {%- elsif lib == 'venn' -%}
+      <script src="https://cdn.jsdelivr.net/npm/@nwaltham/venn.js@0.2.1-4.3/build/venn.min.js"></script>
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- include run.html -%}
+  </body>
+
+</html>
