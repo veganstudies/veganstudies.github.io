@@ -174,7 +174,7 @@ life**라는 개념을 새롭게 제안합니다.
 1.   어떤 생명이건 지각perception, 기억memory, 욕구desire, 믿음belief,
 자기의식self-consciousness, 의도intention, 미래에 대한 감각sense of future을
 가지고 있다면 그 생명은 **삶의 주체subject of life**입니다.
-2.   모든 삶의 주체는 도덕적으로 동등한 **내제적 가치inherent value**를
+2.   모든 삶의 주체는 도덕적으로 동등한 **내재적 가치inherent value**를
 갖습니다.
 3.   삶의 주체 중 일부는 이성에 따라 도덕적 판단을 내리고 이에 따라 실천할
 능력이 있는 **도덕적 주체moral agent**이고 일부는 그러한 능력이 없는 **도덕적

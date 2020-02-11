@@ -44,7 +44,7 @@ observable: "https://api.observablehq.com/@kkyueing/sentience-table.js?v=3"
 "동물 권리의 옹호"의 저자 톰 리건은 믿음, 욕구, 인식, 기억, 미래에 대한 감각,
 정서적 삶, 선호, 목표를 달성하기 위해 행동을 할 능력, 연속적인 정체성 등을 가진
 모든 생명을 삶의 주체subjects-of-a-life라고 정의합니다. 그리고 모든 삶의
-주체들에게는 내제적인 가치inherent value가 있으며 따라서 도덕적 권리moral
+주체들에게는 내재적인 가치inherent value가 있으며 따라서 도덕적 권리moral
 rights가 있다고 주장합니다.
 
 둘 중 누구의 입장을 지지하더라도 위와 같은 연구는 중요하다고 생각해요. 특히
