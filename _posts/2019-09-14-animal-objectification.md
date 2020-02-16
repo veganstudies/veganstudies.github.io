@@ -2,6 +2,7 @@
 layout: post
 title: "동물 대상화"
 date: 2019-09-14 17:00:00 +0900
+observable: "https://api.observablehq.com/@kkyueing/animal-objectification.js?v=3"
 ---
 ## 개요
 
@@ -337,6 +338,10 @@ agency 아예 움직일 수 없는lacking in activity 것으로 간주하기
     (애덤스)
 5.  위 모든 맥락을 고려할 때 부정적 측면에 비해 긍정적 측면이 충분히 크다고
     말할 수 있나? (너스바움)
+
+도식으로 표현해보면 이런 느낌일 것 같아요.
+
+<div id="ob-chart" class="ob-block"></div>
 
 예시:
 
