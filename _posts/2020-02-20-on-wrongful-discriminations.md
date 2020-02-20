@@ -9,4 +9,8 @@ observable: "https://api.observablehq.com/@kkyueing/on-wrongful-discriminations.
 
 <div id="ob-viewof-movement" class="ob-block"></div>
 
+## 요약
+
+<div id="ob-table" class="ob-block"></div>
+
 <div id="ob-doc" class="ob-block"></div>
