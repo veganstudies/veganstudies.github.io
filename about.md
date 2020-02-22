@@ -25,6 +25,11 @@ permalink: /about/
 > 비거니즘이란 모든 형태의 동물 착취를 가능하고 실용적인 한도 내에서 최대한
 > 배제하려는 삶의 방식이다. --도로시 왓슨, 도널드 왓슨
 
+> Neutrality helps the oppressor, never the victim. Silence
+> encourages the tormentor, never the tormented.
+> --Elie Wiesel, Nobel Peace Prize Laureate and Holocaust
+> survivor
+
 Kkyulog is powered by:
 
 * [jekyll](https://github.com/jekyll/jekyll)
