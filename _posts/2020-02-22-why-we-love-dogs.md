@@ -9,9 +9,7 @@ observable: "https://api.observablehq.com/@kkyueing/circular-perception-of-meat.
 
 멜라니 조이Melanie Joy의 \<우리는 왜 개는 사랑하고, 돼지는 먹고, 소는 신을까Why we love dogs, eat pigs, and wear cows\>를 읽고 요약했어요. 2009년에 나온 책이고, 부제는 "육식주의 입문An introduction to carnism"입니다.
 
-## 감사의 글 Acknowledgments
-
-이 책은 수년에 걸친 프로젝트의 산물입니다. 박사 학위 주제로 시작한 연구가 확장되어 책이 되었어요. 그 과정에서 많은 이들의 도움을 받았다며 이름을 열거하고 있어요. (뀨: 하지만 제가 아는 이름은 하나도 없었어요! ㅜㅜ)
+이 책은 수년에 걸친 프로젝트의 산물입니다. 박사 학위 주제로 시작한 연구가 확장되어 책이 되었다고 해요. 그 과정에서 많은 이들의 도움을 받았다며 "감사의 글"에서 이름을 열거하고 있는데 하지만 제가 아는 이름은 하나도 없었어요! ㅜㅜ
 
 ## 추천사 Foreward
 
