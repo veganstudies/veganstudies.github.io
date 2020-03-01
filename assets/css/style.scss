@@ -47,6 +47,11 @@ article.post {
             content: counters(item, ".") ".";
             counter-increment: item;
             display: inline-block;
+            width: 2em;
+            margin-left: -2em;
+        }
+        
+        li li:before {
             width: 2.5em;
             margin-left: -2.5em;
         }
