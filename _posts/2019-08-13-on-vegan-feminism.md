@@ -63,8 +63,8 @@ date: 2019-08-13 12:00:00 +0900
 
 리건은 \<[동물의 권리, 인간의
 잘못](/2019/08/01/animal-rights-human-wrongs.html)\>에서
-모든 삶의 주체subjects-of-a-life에겐 내재적 가치inherent value가
-있기에 도덕적 권리moral right가 있다고 주장합니다.
+모든 [삶의 주체subjects-of-life](/terms/subject-of-life)에겐 내재적
+가치inherent value가 있기에 도덕적 권리moral right가 있다고 주장합니다.
 
 리건의 관점에서 여성은 삶의 주체이고 따라서 내재적 가치가 있으며 도덕적 권리
 또한 지닙니다. 권리론에 따르면 여성에 대한 차별이 존재한다면 이는 권리의
