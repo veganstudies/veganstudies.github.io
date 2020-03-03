@@ -1,6 +1,6 @@
 ---
 layout: term
-title: "부재 지시대상 absent referent"
+title: "부재 지시대상absent referent"
 ---
 ## 정의
 
