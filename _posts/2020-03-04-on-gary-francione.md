@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "폐지론자 게리 프란시온의 부도덕한 왜곡 인용"
-date: 2020-03-04 02:00:00 +0900
+date: 2020-03-04 01:00:00 +0900
 ---
 ## 개요
 
@@ -39,7 +39,7 @@ date: 2020-03-04 02:00:00 +0900
 [프란시온의 DxE 비판글](https://www.abolitionistapproach.com/direct-action-everywhere-dxe-vegan-advocacy-is-harmful-to-the-animal-rights-movement/)과 [팟캐스트 토론](https://www.goveganradio.com/26-july-2015/) 따르면 그의 주장은 이렇습니다.
 
 * 웨인 셩이 2009년 쓴 "[비거니즘 보이콧하기](http://www.images.pythagoreancrank.com/boycott_veganism.pdf)"라는 글에서 "비거니즘은 동물권 운동에 해롭다"고 썼는데, 그는 비거니즘을 오해하고 있을 뿐 아니라 안티-비건이다.
-* DxE는 동물복지론을 옹호한다.
+* DxE는 오로지 동물 복지에만 관심이 있다.
 
 하지만 이는 악의적인 왜곡이에요.
 
