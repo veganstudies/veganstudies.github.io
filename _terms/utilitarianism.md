@@ -18,6 +18,6 @@ title: "공리주의utilitarianism"
 
 ## 관련 자료
 
-* \<[공리주의: 짧은 입문서](/2020/02/01/utilitarianism-a-very-short-introduction.html)]\>는 카타르지나 드 라자리-라덱Katarzyna de Lazari-Radek과 피터 싱어Peter Singer가 함께 쓴 입문서입니다.
+* \<[공리주의: 짧은 입문서](/2020/02/01/utilitarianism-a-very-short-introduction.html)\>는 카타르지나 드 라자리-라덱Katarzyna de Lazari-Radek과 피터 싱어Peter Singer가 함께 쓴 입문서입니다.
 * \<[동물 해방](/2019/07/28/animal-liberation.html)\>은 피터 싱어가 공리주의에 입각해서 동물에 대한 종차별적 억압의 실상을 알린 고전입니다. 초판본은 1975년에 나왔어요.
 * 공리주의는 결과를 중시하기 때문에 결과주의consequentialism라고 불리기도 합니다. 이와 반대로, 결과보다는 주어진 의무를 따르는걸 중시하는 입장을 [의무론deontology](/terms/deontology.html)이라고 부릅니다.
