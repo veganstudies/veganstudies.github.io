@@ -4,7 +4,8 @@ title: "피터 싱어의 동물해방 운동과 톰 리건의 동물권 운동"
 date: 2019-07-25 17:10:00 +0900
 ---
 ## 개요
-\<동물 해방Animal Liberation\>의 저자 피터 싱어Peter Singer는 공리주의에
+\<동물 해방Animal Liberation\>의 저자 피터 싱어Peter Singer는
+[공리주의](/terms/utilitarianism.html)에
 입각하여 동물해방 운동을 지지하는 철학자입니다. \<동물권 옹호The Case for
 Animal Rights\>의 저자 톰 리건Tom Regan은 의무론에 입각하여 동물권 운동을
 지지하는 철학자입니다. 이 둘은 함께 운동을 하면서도 철학적 입장 차이를 놓고
@@ -52,7 +53,7 @@ Lifeboat](https://www.nybooks.com/articles/1985/04/25/the-dog-in-the-lifeboat-an
 
 ## 기본 전제의 차이: 공리주의와 의무론
 
-싱어는 **공리주의자**입니다.
+싱어는 **[공리주의자](/terms/utilitarianism.html)**입니다.
 
 그는 쾌락이나 고통을 느낄 수 있는(교과서의 표현에 의하면 쾌고감수능력이 있는)
 모든 개체를 **지각있는 존재sentient being**라고 부릅니다. 지각있는 존재는 이익

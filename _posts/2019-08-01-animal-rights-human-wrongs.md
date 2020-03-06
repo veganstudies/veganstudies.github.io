@@ -10,7 +10,8 @@ Introduction to Moral Philosophy\>은 동물권 옹호자로 유명한 톰 리�
 피터 싱어는 톰 리건과 함께 동물 운동을 하면서도 철학적 입장에서는 차이를
 보입니다.
 
-그래서 이 책은 싱어의 관점인 공리주의와 비교하며 읽어 봤어요.
+그래서 이 책은 싱어의 관점인 [공리주의](/terms/utilitarianism.html)와
+비교하며 읽어 봤어요.
 
 ## 감사의 글Acknowledgment
 
@@ -264,7 +265,8 @@ Animals\>](http://faculty.philosophy.umd.edu/pcarruthers/The%20Animals%20Issue.p
 ## 제5장. 직접의무 관점들Direct Duty Views
 
 5장에서는 직접의무 관점 중 두 가지를 살펴봅니다. 첫번째는 잔인-친절 관점the
-cruelty-kindness view이고, 두번째는 공리주의utilitarianism입니다. 두 관점 모두
+cruelty-kindness view이고, 두번째는
+[공리주의utilitarianism](/terms/utilitarianism.html)입니다. 두 관점 모두
 비인간 동물들도 인간과 마찬가지로 도덕적 의무의 대상이라고 주장합니다.
 
 **잔인-친절 관점**에 따르면 인간은 동물에게 친절하게 대할 의무와 잔인하게
