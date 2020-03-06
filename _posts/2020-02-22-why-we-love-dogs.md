@@ -350,7 +350,7 @@ observable: "https://api.observablehq.com/@kkyueing/circular-perception-of-meat.
 
 ### 인지 삼중주 The cognitive trio
 
-육식주의는 돼지를 생명이 아닌 사물로 보고, 개체가 아닌 추상 집단으로 보고, 먹을 것으로 여기도록 현실을 왜곡합니다. 이 과정에 육식주의적으로 왜곡된 인지 삼중주가 조화롭게 작용함. 인지 삼중주란 대상화objectification, 비개별화deindivisualization, 이분화dichotomization의 조화를 말합니다.
+육식주의는 돼지를 생명이 아닌 사물로 보고, 개체가 아닌 추상 집단으로 보고, 먹을 것으로 여기도록 현실을 왜곡합니다. 이 과정에 육식주의적으로 왜곡된 인지 삼중주가 조화롭게 작용함. 인지 삼중주란 [대상화objectification](/terms/objectification.html), 비개별화deindivisualization, 이분화dichotomization의 조화를 말합니다.
 
 ### 대상화: 동물을 물건으로 보기
 
@@ -510,7 +510,7 @@ observable: "https://api.observablehq.com/@kkyueing/circular-perception-of-meat.
 
 (뀨: 모든 폭력적인 지배 이데올로기는 동일한 메커니즘을 활용하고 있다는 점은 여러 동물권 관련 책에서 반복적으로 언급되는 통찰입니다.
 
-* \<[육식의 성정치](/2020/01/15/the-sexual-politics-of-meat.html)\>에서는 동물에 대한 억압과 여성에 대한 억압은 모두 가부장제의 세 가지 태도에 기인하고 있다고 말해요: 1) 목적에 따른 수단의 정당화, 2) 다른 존재에 대한 대상화가 삶의 필수 요소라는 믿음, 3) 폭력은 감춰질 수 있고 마땅히 감춰져야 한다는 믿음
+* \<[육식의 성정치](/2020/01/15/the-sexual-politics-of-meat.html)\>에서는 동물에 대한 억압과 여성에 대한 억압은 모두 가부장제의 세 가지 태도에 기인하고 있다고 말해요: 1) 목적에 따른 수단의 정당화, 2) 다른 존재에 대한 [대상화](/terms/objectification.html)가 삶의 필수 요소라는 믿음, 3) 폭력은 감춰질 수 있고 마땅히 감춰져야 한다는 믿음
 * \<[동물해방](/2019/07/28/animal-liberation.html)\>에서는 성차별, [종차별](/terms/speciesism.html), 인종차별의 부당함을 모두 동일한 원리로 설명해요.
 
 [비거니즘과 페미니즘의 연합](/2019/08/13/on-vegan-feminism.html)이 강력한 이유라고 생각합니다.)
