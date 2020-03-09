@@ -8,15 +8,24 @@ body {
     font: 400 16px/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     background-color: #f9fff9;
     word-break: keep-all;
+    color: #555;
 }
 
-a {
-    color: #0050b9;
+a,
+a:visited {
+    color: #419210;
 }
 
 blockquote {
     color: #555555;
-    border-left-color: #CCCCCC;
+    border-left-color: #c1e2b8;
+    background-color: #e0ffeb;
+    padding: 0.5em 1em;
+}
+
+.site-header {
+    border-top-width: 0;
+    padding-top: 1em;
 }
 
 .footer-col-wrapper {
@@ -27,22 +36,31 @@ blockquote {
     color: #555555;
 }
 
+.post-list {
+    h3 {
+        line-height: 1.4;
+    }
+}
+
 article.post {
-    .toc {
-        max-width: 25em;
+    .toc > ol {
         margin-left: 0;
         margin-bottom: 2em;
-        border: 1px solid #ACA;
-        padding: 1em 2em 1em 4em;
+        padding-left: 2.2em;
 
         li {
             margin-top: 0.5em;
             margin-bottom: 0.5em;
         }
 
-        &, ol {
+        & {
             list-style-type: none;
             counter-reset: item;
+        }
+        ol {
+            list-style-type: none;
+            counter-reset: item;
+            margin-left: 40px;
         }
         li:before {
             content: counters(item, ".") ".";
@@ -51,14 +69,24 @@ article.post {
             width: 2em;
             margin-left: -2em;
         }
-        
+
         li li:before {
             width: 2.5em;
             margin-left: -2.5em;
         }
     }
 
+    .post-title {
+        font-size: 36px;
+        line-height: 1.4;
+    }
+
     .post-content {
+        h1 {
+            font-size: 36px;
+            line-height: 1.4;
+        }
+
         h2 {
             font-size: 30px;
         }

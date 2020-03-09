@@ -48,6 +48,8 @@
         {% endif %}
 
         {% if firstHeader %}
+            {% capture my_toc %}## 목차
+            {% endcapture %}
             {% assign firstHeader = false %}
             {% assign minHeader = headerLevel %}
         {% endif %}

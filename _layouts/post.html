@@ -16,7 +16,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {% include toc.html html=content class='toc' ordered=true %}
+    <div class="toc">
+    {% include toc.html html=content ordered=true %}
+    </div>
     {{ content }}
 
     <a href="https://tumblbug.com/visdeum" style="
