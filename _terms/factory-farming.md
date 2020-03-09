@@ -16,6 +16,10 @@ title: "공장식 축산factory farming"
 * [우리는 왜 개는 사랑하고, 돼지는 먹고, 소는 신을까](/2020/02/22/why-we-love-dogs.html) 중 3장
 * 다큐멘터리 영화 [도미니언](https://www.dominionmovement.com/watch)
 
+## 인수공통감염병
+
+[연구(Zoonosis emergence linked to agricultural intensification and environmental change)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666729/)에 따르면, 인수공통감염병의 증가는 현대의 [공장식 축산](/terms/factory-farming.html) 환경과 관련이 있습니다. 아무리 '동물 복지' 수준이 높다고 하더라도, 동물들을 비위생적이고 비좁은 공간에 가둬두기에 동물들은 각종 질병에 취약해집니다. 인간이 육식을 하기 때문에 비정상적으로 많은 개체들이 비정상적으로 밀집되어 지내며 인간과 비정상적으로 많이 교류하게 되는 점도 문제입니다.
+
 ## 기타 다양한 문제들
 
 공장식 축산은 동물 학대 문제 이외에도 다양한 문제를 야기합니다.
