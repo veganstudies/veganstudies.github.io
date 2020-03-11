@@ -18,4 +18,4 @@ title: "지각 있는 존재sentient being"
 
 ## 관련 개념
 
-* [삶의 주체subject of life](/terms/subject-of-life.html)
+* [삶의 주체subject of a life](/terms/subject-of-a-life.html)

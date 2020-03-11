@@ -17,6 +17,6 @@ title: "인간성 정식humanity formula"
 
 톰 리건Tom Regan은 저서 \<동물 권리 옹호The Case for Animal Rights\>에서 칸트의 이론을 확장한 권리론the rights view을 주장합니다. 리건은 칸트의 인간성 정식에 따르면 수정란, 배아, 태아, 초기 몇 년 간의 영아, 혼수상태의 인간 등 어떤 인간은 이성에 따라 목적을 설정하고 이를 추구할 능력을 가지지 못하기 때문에 인간human이되 개인person은 아니며 따라서 인간성과 존엄성이 없고 그러므로 존중받을 권리가 없다는 결론에 이르게 되는 점을 비판합니다.
 
-리건은 칸트의 인간 개념은 너무 넓고 개인 개념은 너무 좁기 때문에 이 문제가 발생한다고 보고 대안으로 [삶의 주체subject of life](/terms/subject-of-life)라는 개념을 새롭게 제안합니다.
+리건은 칸트의 인간 개념은 너무 넓고 개인 개념은 너무 좁기 때문에 이 문제가 발생한다고 보고 대안으로 [삶의 주체subject of a life](/terms/subject-of-a-life)라는 개념을 새롭게 제안합니다.
 
 어떤 생명이건 지각perception, 기억memory, 욕구desire, 믿음belief, 자기의식self-consciousness, 의도intention, 미래에 대한 감각sense of future을 가지고 있다면 그 생명은 삶의 주체입니다. 모든 삶의 주체는 도덕적으로 동등한 내재적 가치를 갖습니다.
