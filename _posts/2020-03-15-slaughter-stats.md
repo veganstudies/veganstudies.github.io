@@ -16,6 +16,10 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 
 <div id="ob-chart" class="ob-block"></div>
 
+다음은 2004년 기준 증가/감소 추이를 보여주는 그래프입니다. 2004년을 100으로 놓았을 때 매년 얼마나 늘거나 주는지 볼 수 있어요. 양이 가장 급격하게 증가하는걸 볼 수 있습니다.
+
+<div id="ob-indexChart" class="ob-block"></div>
+
 ## 요약
 
 간단한 요약입니다.
