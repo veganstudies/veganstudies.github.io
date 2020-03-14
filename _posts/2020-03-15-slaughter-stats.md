@@ -21,3 +21,9 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 다음은 2004년 기준 증가/감소 추이를 보여주는 그래프입니다. 2004년을 100으로 놓았을 때 매년 얼마나 늘거나 주는지 볼 수 있어요. **양**은 2012년까지 약 1만 마리 수준이었는데 2013년에 약 6만 마리로 증가한 이후 꾸준히 늘어 2019년에는 14만 마리를 넘었어요. 2004년에 비해 약 16배 증가한 규모입니다.
 
 <div id="ob-indexChart" class="ob-block"></div>
+
+## 관련글
+
+* \<[우리는 왜 개는 사랑하고, 돼지는 먹고, 소는 신을까](/2020/02/22/why-we-love-dogs.html)\> 요약
+* \<[동물 해방](/2019/07/28/animal-liberation.html)\> 요약
+* [다양한 동식물의 의식경험](/2019/10/22/sentience-table.html)
