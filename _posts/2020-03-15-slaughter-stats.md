@@ -20,7 +20,7 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 
 도살 당하는 닭의 수가 너무 많아서 다른 동물들의 통계는 보이지 않을 정도입니다. 선그래프로 바꾸고 y축을 로그 스케일로 변환하면 다른 종의 동물들도 좀 더 잘 확인할 수 있어요.
 
-<div id="ob=lineChart" class="ob-block"></div>
+<div id="ob-lineChart" class="ob-block"></div>
 
 다음은 2004년 기준 증가/감소 추이를 보여주는 그래프입니다. 2004년을 100으로 놓았을 때 매년 얼마나 늘거나 주는지 볼 수 있어요. **양**은 2012년까지 약 1만 마리 수준이었는데 2013년에 약 6만 마리로 증가한 이후 꾸준히 늘어 2019년에는 14만 마리를 넘었어요. 2004년에 비해 약 16배 증가한 규모입니다.
 
