@@ -695,6 +695,9 @@ Moore Lappés의 "작은 지구에 걸맞는 식습관Diet for a small planet"�
 페일리William Paley의 "도덕/정치철학의 원리The principle of moral and political
 philosophy"에서도 육식의 비효율을 언급합니다.
 
+(뀨: 좀 더 최근의 효율성 계산에 대해서는 [채식의 에너지
+효율성](/2020/03/15/efficiency-of-vegan-diet.html) 글을 참고해주세요.)
+
 **괴물의 원천인 도살장**
 
 괴물은 타락한 세상으로 태어났습니다. 한편 몸 일부는 도살장에서 왔다는 점에서

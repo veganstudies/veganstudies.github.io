@@ -33,3 +33,7 @@ FCR 계산에는 다양한 변수가 있습니다.
 
 * [사료-고기 변환의 비효율Feed-to-meat conversion inefficiency ratio](https://awellfedworld.org/feed-ratios/)
 * [에너지 및 단백질의 사료-음식 전환 효율과 식생활 변화로 인한 잠재적 식량 증가Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes](https://iopscience.iop.org/article/10.1088/1748-9326/11/10/105002)
+
+## 관련 자료
+
+* [채식의 에너지 효율성](/2020/03/15/efficiency-of-vegan-diet.html)
