@@ -16,7 +16,7 @@
 title: 비거니즘 공부
 email: kkyueing@gmail.com
 description: >-
-    책 읽고 독후감 씁니다
+    비건, 비거니즘, 동물권 정보 모음
 baseurl: ""
 url: "https://veganstudies.github.io"
 google_analytics: "UA-144569583-1"
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-toc
   - jemoji
 
