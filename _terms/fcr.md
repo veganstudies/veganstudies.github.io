@@ -1,6 +1,7 @@
 ---
 layout: term
 title: "사료요구율feed conversion ratio"
+observable: "https://api.observablehq.com/@kkyueing/feed-food-efficiency	.js?v=3"
 ---
 ## 정의
 
@@ -18,16 +19,17 @@ FCR 계산에는 다양한 변수가 있습니다.
 
 '몸'을 살아있는 동물의 체중으로 볼지(live weight FCR), '먹을 수 있는 부위'의 무게로 볼지(ediable weight FCR)에 따라서도 달라집니다. 게다가 '먹을 수 있는 부위'를 어떤 기준으로 정할지는 문화권에 따라 달라지기 때문에 여기에서도 차지가 생길 수 있어요. 내장을 먹는지, 피를 먹는지, 뼈의 일부를 먹는지 등이 다르니까요. '먹을 수 있는 부위'를 정하더라도, 도축장에서 측정한 기준으로 볼지(hanging weight), 최종적으로 포장되어 소비자에게 전달되는 무게를 기준으로 볼지(take-home weight)에 따라 달라집니다.
 
-그 밖에도 사료의 질이나 수분 함량, 동물의 활동량, 새끼의 수 등 다양한 변수가 영향을 준다고 해요.
+그 밖에도 사료의 질이나 수분 함량, 동물의 활동량, 새끼의 수 등 다양한 변수가 영향을 준다고 해요. (출처: [Feed-to-meat conversion inefficiency ratio](https://awellfedworld.org/feed-ratios/))
 
-소, 돼지, 닭의 체중 기준 FCR, 먹는 부위 기준 FCR은 이렇다고 해요. (출처: [Feed-to-meat conversion inefficiency ratio](https://awellfedworld.org/feed-ratios/))
+## 소, 돼지, 닭의 사료요구율
 
-| 종 | 체중 기준 | 먹는 부위 기준 |
-|-|-:|-:|
-| 소 | 10.0 | 25.0 |
-| 돼지 | 5.0 | 9.4 |
-| 닭 | 2.5 | 4.5 |
+2016년에 출판된 관련 논문 \<[에너지 및 단백질의 사료-음식 전환 효율과 식생활 변화로 인한 잠재적 식량 증가Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes](https://iopscience.iop.org/article/10.1088/1748-9326/11/10/105002)\>에 따르면 소, 돼지, 닭의 사료요구율은 아래와 같아요. (미국 기준)
+
+<div id="ob-fcrChart" class="ob-block"></div>
+
+소가 가장 효율이 낮고, 그 다음이 돼지입니다. 닭은 효율이 높은 편이에요. 물론 가장 효율이 높은 방법은 인간이 직접 채소를 먹는거예요. [비거니즘](/terms/veganism.html)은 윤리적일 뿐 아니라 가장 에너지 효율적인 식사 습관입니다.
 
 ## 참고 자료
 
-* [Feed-to-meat conversion inefficiency ratio](https://awellfedworld.org/feed-ratios/)
+* [사료-고기 변환의 비효율Feed-to-meat conversion inefficiency ratio](https://awellfedworld.org/feed-ratios/)
+* \<[에너지 및 단백질의 사료-음식 전환 효율과 식생활 변화로 인한 잠재적 식량 증가Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes](https://iopscience.iop.org/article/10.1088/1748-9326/11/10/105002)\>
