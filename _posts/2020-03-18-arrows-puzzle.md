@@ -20,5 +20,11 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 
 <div id="ob-canvasResult" class="ob-block"></div>
 
+<div style="display: none;">
+<div id="ob-clickHandler" class="ob-block"></div>
+<div id="ob-updateOnSelections" class="ob-block"></div>
+<div id="ob-selections" class="ob-block"></div>
+</div>
+
 ## 해설
 
