@@ -6,9 +6,11 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 ---
 ## 개요
 
-권리 퍼즐 게임은 화살표를 이어 붙여서 목적지에 최대한 가깝게 가는 게임입니다.
+화살표 퍼즐 게임은 화살표를 이어 붙여서 우측 상단의 목적지에 최대한 가깝게 가는 게임입니다. 화살표를 클릭하면 해당 화살표가 선택됩니다.
 
-중앙의 동그라미에서 시작해서, 우측 상단에 있는 동그라미에 최대한 가깝게 가면 높은 점수를 얻어요. 화살표를 클릭하면 해당 화살표가 선택됩니다.
+* 각 화살표는 **정책**입니다.
+* X축으로 가깝게 갈수록 **인종 차별**이 개선됩니다.
+* Y축으로 가깝게 갈수록 **계급 차별**이 개선됩니다.
 
 ## 게임
 
@@ -16,7 +18,7 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 
 <div id="ob-canvasArrows" class="ob-block"></div>
 
-우측 상단의 동그라미에 최대한 가깝게 도달해야 합니다. 화살표를 모두 선택했으면 아래의 해설을 읽어주세요.
+화살표를 모두 선택했으면 아래의 해설을 읽어주세요.
 
 <div id="ob-canvasResult" class="ob-block"></div>
 
@@ -28,3 +30,4 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 
 ## 해설
 
+결과 화면을 드래그해서 돌려보면 Z축이 나타나요. Z축은 **젠더 차별**입니다. 존재하는 축을 고려하지 않고 의사결정을 하면 필연적으로 나타나는 결과입니다.
