@@ -20,7 +20,7 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 
 화살표를 모두 선택했으면 아래의 해설을 읽어주세요.
 
-<div id="ob-canvasResult" class="ob-block"></div>
+<div id="ob-coveredResult" class="ob-block"></div>
 
 <div style="display: none;">
 <div id="ob-clickHandler" class="ob-block"></div>
@@ -30,4 +30,8 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 
 ## 해설
 
-결과 화면을 드래그해서 돌려보면 Z축이 나타나요. Z축은 **젠더 차별**입니다. 존재하는 축을 고려하지 않고 의사결정을 하면 필연적으로 나타나는 결과입니다.
+'완료'를 체크하면 결과 화면을 드래그해서 회전시킬 수 있습니다. 화면을 회전시키면 숨어 있던 Z축이 나타나요. Z축은 **젠더 차별**입니다.
+
+<div id="ob-viewof-done" class="ob-block"></div>
+
+존재하는 축을 고려하지 않고 의사결정을 하면 필연적으로 나타나는 결과입니다.
