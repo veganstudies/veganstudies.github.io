@@ -12,6 +12,18 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 * 오른쪽으로 갈수록 **인종 차별**이 개선됩니다.
 * 위로 갈수록 **학력 차별**이 개선됩니다.
 
+예를 들어 이 우상단 화살표
+<span style="display: inline-block; transform: rotate(-45deg)"
+      title="우상단 화살표">→</span>
+를 고르면 인종 차별과 학력 차별이 모두 개선됩니다. 하지만 좌상단 화살표
+<span style="display: inline-block; transform: rotate(-135deg)"
+      title="북서쪽 화살표">→</span>
+를 고르면 학력 차별은 개선되지만 인종 차별은 악화됩니다.
+
+화살표를 잘 조합해서 두 차별을 최대한 개선해보세요.
+
+## 게임
+
 아래 화면에서 화살표를 클릭해서 선택하세요.
 
 <div id="ob-canvasArrows" class="ob-block"></div>
