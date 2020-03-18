@@ -12,11 +12,11 @@ observable: "https://api.observablehq.com/@kkyueing/arrows-puzzle.js?v=3"
 * 오른쪽으로 갈수록 **인종 차별**이 개선됩니다.
 * 위로 갈수록 **학력 차별**이 개선됩니다.
 
-예를 들어 이 우상단 화살표
-<span style="display: inline-block; transform: rotate(-45deg)"
+예를 들어 우상단 화살표
+<span style="display: inline-block; color: #00F; transform: rotate(-45deg)"
       title="우상단 화살표">→</span>
 를 고르면 인종 차별과 학력 차별이 모두 개선됩니다. 하지만 좌상단 화살표
-<span style="display: inline-block; transform: rotate(-135deg)"
+<span style="display: inline-block; color: #00F; transform: rotate(-135deg)"
       title="북서쪽 화살표">→</span>
 를 고르면 학력 차별은 개선되지만 인종 차별은 악화됩니다.
 
