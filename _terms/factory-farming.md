@@ -1,6 +1,7 @@
 ---
 layout: term
 title: "공장식 축산factory farming"
+observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 ---
 ## 정의
 
@@ -16,6 +17,14 @@ title: "공장식 축산factory farming"
 * [우리는 왜 개는 사랑하고, 돼지는 먹고, 소는 신을까](/2020/02/22/why-we-love-dogs.html) 중 3장
 * 다큐멘터리 영화 [도미니언](https://www.dominionmovement.com/watch)
 
+## 규모
+
+2019년에는 약 12억 마리의 ‘축산동물’이 도살을 당하고 있고, 2004년에 비해 약 두 배 증가한 규모입니다. 가장 많이 죽임을 당하는 동물은 닭이에요. 2019년 기준 약 10억 마리입니다. 도살 당하는 동물 중 거의 대부분은 공장식 축산 환경에서 사육 당했습니다.
+
+<div id="ob-stackedBarChart" class="ob-block"></div>
+
+자세한 내용은 [도축 통계](/2020/03/14/slaughter-stats.html)를 참고해주세요.
+
 ## 인수공통감염병
 
 [연구(Zoonosis emergence linked to agricultural intensification and environmental change)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666729/)에 따르면, 인수공통감염병의 증가는 현대의 공장식 축산 환경과 관련이 있습니다. 아무리 '동물 복지' 수준이 높다고 하더라도, 동물들을 비위생적이고 비좁은 공간에 가둬두기에 동물들은 각종 질병에 취약해집니다. 인간이 육식을 하기 때문에 비정상적으로 많은 개체들이 비정상적으로 밀집되어 지내며 인간과 비정상적으로 많이 교류하게 되는 점도 문제입니다.
@@ -29,3 +38,7 @@ title: "공장식 축산factory farming"
 * 토양오염
 * 산림파괴
 * 온실가스방출로 인한 기후위기 가속화
+
+## 관련 정보
+
+* [도축 통계](/2020/03/14/slaughter-stats.html)
