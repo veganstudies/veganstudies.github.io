@@ -6,7 +6,7 @@ date: 2019-08-11 22:00:00 +0900
 ## 개요
 
 동물권 단체 EVA(Ethical Vegetarian Alternative윤리적 채식주의적
-대안)의 설립자인 Tobias Leenaert의 책 [\<비건 세상 만들기How to Create a
+대안)의 설립자인 토바이어스 리나트르Tobias Leenaert의 책 [\<비건 세상 만들기How to Create a
 Vegan
 World\>](https://www.amazon.com/How-Create-Vegan-World-Pragmatic/dp/1590565703)을
 읽고 요약했어요. 동물의 고통을 줄이고, 도축을 줄이고, 동물에 대한 부도덕을
