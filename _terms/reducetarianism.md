@@ -33,4 +33,4 @@ title: "감소주의reducetarianism"
 
 ## 참고 자료
 
-* https://reducetarian.org/ - 감소주의 재단The Reducetarian Foundation 홈페이지
+* [https://reducetarian.org/](https://reducetarian.org/) - 감소주의 재단The Reducetarian Foundation 홈페이지
