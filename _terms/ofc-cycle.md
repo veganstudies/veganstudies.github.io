@@ -6,7 +6,7 @@ title: "대상화, 파편화, 소비의 순환the cycle of objectification, frag
 
 **대상화, 파편화, 소비의 순환the cycle of objectification, fragmentation, and consumption**은 캐롤 J. 애덤스가 \<[육식의 성정치](/2020/01/15/the-sexual-politics-of-meat.html)\>에서 제안한 개념으로, 여성에 대한 억압과 동물에 대한 억압을 연결할 수 있는 대안적 이론입니다.
 
-**[대상화](/terms/objectification.html)**를 통해 억압자는 피억압자를 사물로 취급하며, 사물이기에 의지에 반하여 폭력을 행사합니다. 이 과정을 통해 억압자는 피억압자를 **파편화**하고, 최종적으로 **소비consume**합니다. 남성이 여성을 실제로 먹는consume 경우는 흔치 않으나 모든 남성은 여성의 시각적 이미지를 소비consume합니다. 소비는 억압의 완성입니다.
+**[대상화](/terms/objectification.html)**를 통해 억압자는 피억압자를 사물로 취급하며, 사물이기에 의지에 반하여 폭력을 행사합니다. 이 과정을 통해 억압자는 피억압자를 **파편화**하고, 최종적으로 **소비consume**합니다. 가부장제 사회에서의 여성 억압 또한 동일한 과정을 거쳐 일어납니다. 남성이 여성을 실제로 먹는consume 경우는 흔치 않으나 모든 남성은 여성의 시각적 이미지를 소비consume합니다. 소비는 억압의 완성입니다.
 
 ## 언어의 역할
 
