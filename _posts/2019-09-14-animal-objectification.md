@@ -27,7 +27,8 @@ observable: "https://api.observablehq.com/@kkyueing/animal-objectification.js?v=
 Meat](/2020/01/15/the-sexual-politics-of-meat.html)"에서 여성에 대한
 대상화와 동물에 대한 대상화 사이의 깊은 관련성이 있음을 지적합니다. 도덕철학자이자
 동물권 운동가인 톰 리건Tom Regan은 저서 "동물 권리 옹호The Case for
-Animal Rights"에서 칸트의 이론을 확장한 권리론the rights view에
+Animal Rights"에서 칸트의 이론을 확장한 [권리론the rights
+view](/terms/rights-view.html)에
 기반하여 동물권을 옹호합니다. 반면, 피터 싱어Peter Singer의 "동물
 해방Animal Liberation"은 벤담Jeremy Bentham의 공리주의에 기반을
 두고 있기에 대상화 논의와는 직접적인 관련성이 적어 보여요.
