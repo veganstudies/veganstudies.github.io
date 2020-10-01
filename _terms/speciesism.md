@@ -24,3 +24,7 @@ Richard Ryder가 처음 사용한 용어이나, 피터 싱어Peter Singer의 197
 현재까지 알려진 바에 따르면 식물은 위 기준을 통과하지 못할 가능성이 높습니다. 자세한
 내용은 \<[식물도 고통을 느끼나](/2019/11/12/plant-sentience.html)\>를
 참고해주세요.
+
+## 관련 개념
+
+* [종차별적 언어](/terms/speciesist-language.html)
