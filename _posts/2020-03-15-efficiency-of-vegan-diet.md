@@ -2,7 +2,7 @@
 layout: post
 title: 채식의 에너지 효율성
 date: 2020-03-15 10:00:00 +0900
-observable: "https://api.observablehq.com/@kkyueing/feed-food-efficiency	.js?v=3"
+observable: "https://api.observablehq.com/@kkyueing/feed-food-efficiency.js?v=3"
 ---
 ## 개요
 
