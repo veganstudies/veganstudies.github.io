@@ -47,3 +47,7 @@ observable: "https://api.observablehq.com/@kkyueing/feed-food-efficiency.js?v=3"
 ## 결론
 
 [비거니즘](/terms/veganism.html)은 윤리적일 뿐 아니라 친환경적이고 에너지 효율도 가장 높은 생활 습관입니다.
+
+## 관련 글
+
+* [식물성 단백질의 품질](/2020/10/02/quality-of-plant-based-protein.html)
