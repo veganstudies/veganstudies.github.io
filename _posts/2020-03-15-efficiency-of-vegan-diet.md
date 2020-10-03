@@ -50,4 +50,5 @@ observable: "https://api.observablehq.com/@kkyueing/feed-food-efficiency.js?v=3"
 
 ## 관련 글
 
+* [비건 식습관에 대한 각 분야의 전문가 의견](/2020/10/03/export-opinions-on-vegan-diet.html)
 * [식물성 단백질의 품질](/2020/10/02/quality-of-plant-based-protein.html)
