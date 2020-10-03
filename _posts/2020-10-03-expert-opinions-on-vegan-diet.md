@@ -17,6 +17,14 @@ date: 2020-10-03 19:00:00 +0900
 >
 > Poor dietary habits, rich in meat and foods that are high in sugar and fat and low in whole grains, fruits and vegetables have been closely linked to noncommunicable diseases —a leading cause of premature death, not only in high-income countries but also many parts of the developing world. These diets are typically not only unhealthy, but environmentally unsustainable. "Growing numbers of people now understand that diets rich in whole-grains, legumes, fruits and vegetables -- with reduced consumption of meat  and smaller quantities of high-fat and high-sugar foods -- are good for our bodies. There is also ample evidence showing that such diets have much lower environmental impacts than the unhealthy and unsustainable eating patterns that are increasingly prevalent today," explains lead author Carlos Gonzales-Fischer of FCRN
 
+## 미국보건복지부 (2018)
+
+미국 보건복지부에서 운영하는 의학백과 웹사이트인 MedlinePlus에서는 [베지테리언 식습관의 장점](https://medlineplus.gov/ency/article/002465.htm)을 이렇게 소개합니다.
+
+> 잘 계획된 베지테리언 식습관은 모든 영양 관련 요건을 충족시킬 수 있습니다. 고기 섭취를 줄이면 건강이 증진될 수 있습니다. 베지테리언 식습관에는 이런 장점이 있을 수 있습니다: 비만 위험을 낮춤, 심장 질환 위험을 낮츰, 혈압을 낮춤, 2형 당뇨 위험을 낮춤.
+>
+> A well-planned vegetarian diet can meet your nutrition needs. Reducing the amount of meat in your diet may improve your health. Eating a vegetarian diet may help you: Reduce your chance of obesity, reduce your risk for heart disease, lower your blood pressure, lower your risk for type 2 diabetes
+
 ## 미국영양사협회 (2009)
 
 미국영양사협회The American Dietetic Association에서는 2009년에 [베지테리언 식습관에 대한 미국영양사협회의 입장Position of the American Dietetic Association: vegetarian diets
