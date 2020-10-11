@@ -65,6 +65,7 @@ date: 2020-10-03 19:00:00 +0900
 
 * 유럽연합 집행위원회의 환경정책과학지 - [Dietary changes will help more sustainable agriculture meet increased global food demand](https://ec.europa.eu/environment/integration/research/newsalert/pdf/dietary_changes_sustainable_agriculture_increased_global_food_demand_478na1_en.pdf) (2016)
 * 국제스포츠영양학회 저널 - [Vegan diets: practical advice for athletes and exercisers](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0192-9) (2017)
+* 미국암연구협회 - [Vegan Diet: Highest in Fiber and Lowest in Saturated Fat](https://www.aicr.org/cancer-prevention/food-facts/vegan-diet/)
 
 ## 관련 글
 
