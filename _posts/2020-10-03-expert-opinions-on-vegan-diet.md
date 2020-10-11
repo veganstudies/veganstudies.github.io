@@ -61,11 +61,49 @@ date: 2020-10-03 19:00:00 +0900
 >
 > Conclusions: Diets higher in plant foods and lower in animal foods were associated with a lower risk of cardiovascular morbidity and mortality in a general population.
 
+## 미국암연구협회 (2020)
+
+미국암연구협회American Institute for Cancer Research는 암 예방에 좋은 음식과 나쁜 음식이 무엇인지 알려주는 ["Food Facts" 페이지](https://www.aicr.org/cancer-prevention/food-facts/)를 운영하고 있습니다.
+
+암 예방에 좋은 음식은 모두 비건입니다:
+
+* 사과
+* 아스파라거스
+* 블루베리
+* 브로콜리 등 십자화과
+* 브뤼셀 스프라우트 (미니 양배추)
+* 당근
+* 컬리플라워
+* 체리
+* 커피
+* 크랜베리
+* 플락시드
+* 마늘
+* 그레이프프루트
+* 포도
+* 케일
+* 견과류
+* 라즈베리
+* 대두
+* 시금치
+* 호박
+* 딸기
+* 티
+* 토마토
+* 호두
+* 통곡류
+
+다음은 되도록 줄이면 좋은 음식입니다.
+
+* 알콜
+* 가공육 (소시지, 햄, 베이컨, 핫도그, 살라미)
+* 적색육 (소, 돼지, 양)
+* 설탕음료
+
 ## 기타
 
 * 유럽연합 집행위원회의 환경정책과학지 - [Dietary changes will help more sustainable agriculture meet increased global food demand](https://ec.europa.eu/environment/integration/research/newsalert/pdf/dietary_changes_sustainable_agriculture_increased_global_food_demand_478na1_en.pdf) (2016)
 * 국제스포츠영양학회 저널 - [Vegan diets: practical advice for athletes and exercisers](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0192-9) (2017)
-* 미국암연구협회 - [Vegan Diet: Highest in Fiber and Lowest in Saturated Fat](https://www.aicr.org/cancer-prevention/food-facts/vegan-diet/)
 
 ## 관련 글
 
