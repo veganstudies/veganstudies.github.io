@@ -80,5 +80,6 @@ date: 2020-10-03 19:00:00 +0900
 
 ## 관련 글
 
+* [\<무엇을 먹을 것인가\> 요약](/2020/11/14/the-china-study.html)
 * [식물성 단백질의 품질](/2020/10/02/quality-of-plant-based-protein.html)
 * [채식의 에너지 효율성](/2020/03/15/efficiency-of-vegan-diet.html)

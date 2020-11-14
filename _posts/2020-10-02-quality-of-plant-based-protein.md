@@ -77,5 +77,6 @@ PDCAAS 기준으로는 대두soy 단백질이 0.91점에서 1점 사이, 완두�
 
 ## 관련 글
 
+* [\<무엇을 먹을 것인가\> 요약](/2020/11/14/the-china-study.html)
 * [비건 식습관에 대한 각 분야의 전문가 의견](/2020/10/03/expert-opinions-on-vegan-diet.html)
 * [채식의 에너지 효율성](/2020/03/15/efficiency-of-vegan-diet.html)

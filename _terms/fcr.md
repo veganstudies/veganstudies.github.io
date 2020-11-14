@@ -37,3 +37,4 @@ FCR 계산에는 다양한 변수가 있습니다.
 ## 관련 자료
 
 * [채식의 에너지 효율성](/2020/03/15/efficiency-of-vegan-diet.html)
+* [\<무엇을 먹을 것인가\> 요약](/2020/11/14/the-china-study.html)
