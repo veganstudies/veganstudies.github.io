@@ -708,8 +708,7 @@ you need to know to follow the research**
   conventional diabetes diet in the treatment of type 2 diabetes: a randomized,
   controlled, 74-wk clinical trial." Am. J. Clin. Nutr. 89 (2009): 1588S–1596S.
 
-### 제8장. 유방암, 전립선암, 대장암(결장과 직장)Common Cancers: Breast,
-Prostate, Large Bowel (Colon and Rectal)
+### 제8장. 유방암, 전립선암, 대장암(결장과 직장)Common Cancers: Breast, Prostate, Large Bowel (Colon and Rectal)
 
 저자는 평생 암 연구를 했고 그 덕에 1998년에 미국암연구협회AICR로부터 수상을
 하였습니다. 평생 연구를 통해 얻은 결론은, 적어도 영양과의 관계에 있어서는 모든
@@ -770,7 +769,7 @@ BRCA-1,2의 변이가 유방암/자궁암 유병률을 높이는건 사실이지
 충분히 인지하지 못하거나 수용하길 꺼려하고 있어서 문제입니다. 학계와 정부에서
 더 적극적으로 자연식물식에 대한 논의를 해야만 합니다.
 
-### 제9정. 자가면역질환Autoimmune Diseases
+### 제9장. 자가면역질환Autoimmune Diseases
 
 인류의 7~10%는 자가면역질환을 앓고 있다고 합니다. 남성보다 여성이 두 배 이상
 많고요. 자가면역질환은 자기 면역계가 자기 신체 어딘가를 공격하는 병입니다.
@@ -817,8 +816,7 @@ BRCA-1,2의 변이가 유방암/자궁암 유병률을 높이는건 사실이지
 5. 바이러스에 의해 촉발되기도 함
 6. 질환의 작용기제가 상당히 유사
 
-### 제10장. 광범위한 효과들: 뼈, 신장, 눈, 뇌 관련 질환Wide-Ranging Effects:
-Bone, Kidney, Eye, and Brain Diseases
+### 제10장. 광범위한 효과들: 뼈, 신장, 눈, 뇌 관련 질환Wide-Ranging Effects: Bone, Kidney, Eye, and Brain Diseases
 
 **골다공증Osteopsis**
 
@@ -860,8 +858,7 @@ Bone, Kidney, Eye, and Brain Diseases
 
 ## 제3부. 좋은 영양 안내서The Good Nutrition Guide
 
-### 제11장. 바르게 먹기: 음식과 건강에 대한 여덟가지 원칙Eating Right: Eight
-Principles of Food and Health
+### 제11장. 바르게 먹기: 음식과 건강에 대한 여덟가지 원칙Eating Right: Eight Principles of Food and Health
 
 * **원칙1. 영양은 수많은 음식 원료의 작용이 결합된 결과입니다.** 전체는 부분의
   합보다 큽니다. 특정한 단일영양소나 화학성분을 지나치게 강조하는 것은
@@ -926,8 +923,7 @@ Variety) of Any Whole, Unrefined, Plant-Based Food**
 사상적인 이유로 이러한 식사를 하는데, 육식에 비해서는 좋으나 자연식물식에 비해
 좋지는 않습니다.
 
-## 제4부. 왜 전에는 이런 얘기를 들어보지 못했나Why Haven't You Heard This
-Before?
+## 제4부. 왜 전에는 이런 얘기를 들어보지 못했나Why Haven't You Heard This Before?
 
 ### 제13장. 과학의 어두운 면Science - The Dark Side
 
@@ -1135,8 +1131,7 @@ WHO는 압력을 견뎌내고 10%를 고수했고, FNB는 아마도 업계의 �
 분과는 없습니다. 개별 분과에서 영양 연구에 할당하는 재정은 매우 적으며 그나마도
 제약/보충제 등 업계의 상업적 이익과 관련된 연구가 대부분입니다.
 
-### 제17장. 거대 의료기업은 누구의 건강을 지키나?Big Medicine: Whose Health Are
-They Protecting?
+### 제17장. 거대 의료기업은 누구의 건강을 지키나?Big Medicine: Whose Health Are They Protecting?
 
 **풀떼기 박사Dr. Sprouts**
 
@@ -1205,8 +1200,7 @@ Campbell, MD**
 대중을 포함하여 독학을 하는 이들에게도 그 결과를 공개해야 합니다. 하지만 현재의
 학계는 전혀 이렇지 않습니다.
 
-**학문적 자유에의 도전. 코넬대학의 사례The challenge to academic freedom:
-Cornell as case study**
+**학문적 자유에의 도전. 코넬대학의 사례The challenge to academic freedom: Cornell as case study**
 
 저자는 1975년 이후 코넬대의 전폭적 지원 덕에 많은 연구를 할 수 있었습니다.
 하지만 1990년 경 '중국 연구'의 결과가 크게 주목받은 이후로 저자가 담당하는

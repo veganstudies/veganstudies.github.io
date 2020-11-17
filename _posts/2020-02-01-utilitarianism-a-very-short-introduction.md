@@ -335,8 +335,7 @@ Eleanor Balfour는 수학에 능했으며 노벨 물리학상 수상자인 Rayle
 가리킨다는 점에서, 그는 도덕의 합리적 기반을 제시하고자 했던 스스로의 목적을
 이루지 못한 것으로 여겼습니다.
 
-### 하사니의 "무지한 상황conditions of ignorance에서의 합리적 선택rational
-choice"에 기반한 논증
+### 하사니의 "무지한 상황conditions of ignorance에서의 합리적 선택rational choice"에 기반한 논증
 
 존 하사니John Harsanyi(1920-2000)는 게임 이론 연구로 존 내쉬John Nash와
 노벨경제학상을 공동수상한 학자입니다. 하사니는 특정 선택이 본인의 이익에 미칠

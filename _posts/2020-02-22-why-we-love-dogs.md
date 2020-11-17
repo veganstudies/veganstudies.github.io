@@ -363,8 +363,7 @@ knowing이라는 현상을 공통적으로 가지고 있어요. 폭력적 이데
 선택을 하고 있다는 사실조차 모른다면 이는 불가능합니다. 현실을 제대로 알아야만
 진정 자유로운 선택을 할 수 있습니다.
 
-## 제4장. 부수적 피해: 육식주의의 다른 피해자들 Collateral damage: The other
-casualites of carnism
+## 제4장. 부수적 피해: 육식주의의 다른 피해자들 Collateral damage: The other casualites of carnism
 
 부수적 피해자는 축산업 종사자들, 근처 오염지역 거주자들, 육류 소비자들,
 납세자들입니다. [육식주의](/terms/carnism.html)의 부수적 피해자는 다름아닌
@@ -464,8 +463,7 @@ casualites of carnism
 
 > 경고: 육식은 심장 질환 사망 확률을 50%, 결장암 위험을 300% (중략) 높입니다.
 
-## 제5장. 육식의 신화: 육식주의의 정당화 The Mythology of Meat: Justifying
-Carnism
+## 제5장. 육식의 신화: 육식주의의 정당화 The Mythology of Meat: Justifying Carnism
 
 폭력적 이데올로기의 주요한 특징 하나는 비가시성입니다. 3장과 4장에서
 기호적/실체적 측면을 드러냈는다면 5장에서는 육식의 현실reality을
@@ -657,8 +655,7 @@ Carnism
 체계 안에서는 오로지 육식주의의 눈으로만 세상을 볼 수 있습니다. 실상을
 파악하려면 체계 밖에서 체계를 바라봐야만 합니다.
 
-## 제6장. 육식거울나라의 엘리스: 내재화된 육식주의 Throught the carnistic
-looking glass: Internalized carnism
+## 제6장. 육식거울나라의 엘리스: 내재화된 육식주의 Throught the carnistic looking glass: Internalized carnism
 
 우리가 사는 세상은 영화 메트릭스와 유사합니다. 우리의 마음은 육식주의의
 메트릭스에 갇혀 있어요. 원하는대로 사는게 아니라 육식주의의 강압에 따라 살고
@@ -799,8 +796,7 @@ looking glass: Internalized carnism
 읽고 있습니다. 이 책의 역할은 문을 보여주는 것이고, 이 문을 열고 육식주의의
 메트릭스 밖으로 걸어 나가는건 우리의 몫입니다.
 
-## 제7장. 증언하기 - 육식주의에서 연민으로Bearing witness - from carnism to
-compassion
+## 제7장. 증언하기 - 육식주의에서 연민으로Bearing witness - from carnism to compassion
 
 7장은 Helmut Kaplan을 인용하며 시작해요.
 
