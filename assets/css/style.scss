@@ -3,9 +3,10 @@
 ---
 
 @import "minima";
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
 
 body {
-    font: 400 16px/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 300 16px/1.8 'Spoqa Han Sans Neo', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     background-color: #fcfffc;
     word-break: keep-all;
     color: #444444;
@@ -98,6 +99,7 @@ article.post {
         h1, h2, h3, h4, h5, h6 {
             margin-top: 1.5em;
             line-height: 1.4;
+            font-weight: 500;
 
             &:first-child {
                 margin-top: 1em;
@@ -108,6 +110,12 @@ article.post {
             font-size: inherit;
             letter-spacing: inherit;
             font-style: inherit;
+        }
+
+        b, strong {
+            font-weight: 500;
+            border-bottom: 1px solid #bdffe0;
+            box-shadow: inset 0 -0.5em 0 #bdffe0;
         }
     }
 }
