@@ -8,8 +8,6 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 
 2004년 1월부터 2020년 12월 사이 이후 전국의 소, 돼지, 말, 양, 닭, 오리를
 도축하는 도축장(도계장)의 도축검사실적, 도축실적 보고내용을 집계했어요.
-'도살두수'는 생체검사두수에서 도살금지두수를 제외한 수치입니다. 태어나서
-바로 죽임 당하는 수평아리 등도 계산에 포함되어 있지 않습니다.
 
 출처는 농림축산검역본부의 [도축실적
 통계](http://www.qia.go.kr/livestock/clean/listTcsjWebAction.do?clear=1)입니다.
@@ -41,6 +39,19 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 약 17만 마리가 되었습니다. 2004년에 비해 약 17배 증가한 규모입니다.
 
 <div id="ob-indexChart" class="ob-block"></div>
+
+## 통계에 포함되지 않은 동물들
+
+위 계산에는 도축장/도계장에서 먹기 위해 죽인 소, 돼지, 말, 양, 닭, 오리만을
+포함하고 있습니다. '도살두수'는 생체검사두수에서 도살금지두수를 제외한
+수치입니다. 즉, 먹기에 적합하다고 판정한 후 도축장/도계장에서 죽인 동물의
+수입니다. 따라서 태어나서 바로 죽임 당하는 수평아리 등은 계산에 포함되어 있지
+않습니다.
+
+물살이나 다양한 무척추 동물도 포함되지 않았습니다. 먹기 위해 죽인 동물이 아닌
+실험 동물 등도 포함되지 않았습니다.
+
+## 마치기 전에
 
 <div id="ob-deathSinceOnPage" class="ob-block"></div>
 
