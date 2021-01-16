@@ -8,7 +8,8 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 
 2004년 1월부터 2020년 12월 사이 이후 전국의 소, 돼지, 말, 양, 닭, 오리를
 도축하는 도축장(도계장)의 도축검사실적, 도축실적 보고내용을 집계했어요.
-'도살두수'는 생체검사두수에서 도살금지두수를 제외한 수치입니다.
+'도살두수'는 생체검사두수에서 도살금지두수를 제외한 수치입니다. 태어나서
+바로 죽임 당하는 수평아리 등도 계산에 포함되어 있지 않습니다.
 
 출처는 농림축산검역본부의 [도축실적
 통계](http://www.qia.go.kr/livestock/clean/listTcsjWebAction.do?clear=1)입니다.
@@ -16,11 +17,13 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 [깃헙](https://github.com/veganstudies/stats/blob/master/slaughter-kr.csv)에
 공유했어요.
 
+## 요약
+
+<div id="ob-summaryDescription" class="ob-block"></div>
+
 ## 통계
 
-2020년에는 약 12억 마리의 '축산동물'이 도살을 당했습니다. 2004년에 비해 약
-두 배 증가한 규모입니다. 물살이 등 다른 동물을 포함시키면 훨씬 더 커질거예요.
-가장 많이 죽임을 당하는 동물은 **닭**이에요. 2020년 기준 약 11억 마리입니다.
+가장 많이 죽임을 당하는 동물은 **닭**입니다.
 
 <div id="ob-viewof-filter" class="ob-block"></div>
 
@@ -38,6 +41,8 @@ observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 약 17만 마리가 되었습니다. 2004년에 비해 약 17배 증가한 규모입니다.
 
 <div id="ob-indexChart" class="ob-block"></div>
+
+<div id="ob-deathSinceOnPage" class="ob-block"></div>
 
 ## 관련글
 
