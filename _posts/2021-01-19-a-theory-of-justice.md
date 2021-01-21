@@ -119,7 +119,7 @@ Fairness\>가 롤스의 견해를 더 잘 담아내고 있지만, 롤스에 대�
 접근은 이 기본적인 사회 구조에 관한 것이므로 전통적 견해와 충돌한다고
 볼 이유는 없습니다.
 
-#### 3절. 정의론의 주요 아이디어들The Main Idia of the Theory of Justice
+#### 3절. 롤스 정의론의 핵심 아이디어The Main Idia of the Theory of Justice
 
 #### 4절. 원초적 입장과 정당화The Original Position and Justification
 
