@@ -55,6 +55,8 @@ GEM
       jekyll (>= 3.0, < 5.0)
     kramdown (2.3.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.4.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -101,6 +103,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-toc
   jemoji
+  kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
