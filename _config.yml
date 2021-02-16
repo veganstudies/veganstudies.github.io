@@ -26,14 +26,16 @@ lang: ko
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-toc
-  - jemoji
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-toc
+    - jemoji
 
 collections:
-  terms:
-    output: true
+    faqs:
+        output: true
+    terms:
+        output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
