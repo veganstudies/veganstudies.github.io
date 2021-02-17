@@ -23,4 +23,4 @@ title: "식물도 고통을 느끼는데 왜 먹어?"
 ## 관련 질문
 
 * [박테리아는 생명이 아니야?](/faqs/life.html)
-* [동물이 고통을 느끼는지 어떻게 알아?](/faq/pain-of-animal.html)
+* [동물이 고통을 느끼는지 어떻게 알아?](/faqs/pain-of-animal.html)
