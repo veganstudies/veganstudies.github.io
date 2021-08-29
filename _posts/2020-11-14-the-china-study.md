@@ -1257,3 +1257,4 @@ Dannon의 부사장이었습니다. 그는 USDA 유제품 가이드라인 위원
 * [식물성 단백질의 품질](/2020/10/02/quality-of-plant-based-protein.html)
 * [\<육식의 성정치\> 요약](/2020/01/15/the-sexual-politics-of-meat.html)
 * [\<당신이 병에 드는 이유\> 요약](/2021/08/29/whole.html)
+* [\<영양학의 미래\> 요약](/2021/08/29/the-future-of-nutrition.html)
