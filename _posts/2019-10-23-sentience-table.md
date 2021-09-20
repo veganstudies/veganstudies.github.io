@@ -60,4 +60,4 @@ rights가 있다고 주장합니다.
 * 피터 싱어의 [\<동물 해방\> 요약](/2019/07/28/animal-liberation.html)
 * 톰 리건의 [\<동물의 권리, 인간의 잘못\>
   요약](/2019/08/01/animal-rights-human-wrongs.html)
-* [식물도 고통을 느끼나](/2019/11/13/plant-sentience.html)
+* [식물도 고통을 느끼나](/2019/11/12/plant-sentience.html)
