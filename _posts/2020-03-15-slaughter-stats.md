@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "도축 통계"
-date: 2020-03-15 00:00:00 +0900
+date: 2022-01-31 00:00:00 +0900
 observable: "https://api.observablehq.com/@kkyueing/slaughter-statistics.js?v=3"
 ---
 ## 개요
 
-2004년 1월부터 2020년 12월 사이 이후 전국의 소, 돼지, 말, 양, 닭, 오리를
+2004년 1월부터 2021년 12월 사이 전국의 소, 돼지, 말, 양, 닭, 오리를
 도축하는 도축장(도계장)의 도축검사실적, 도축실적 보고내용을 집계했어요.
 
 출처는 농림축산검역본부의 [도축실적
 통계](http://www.qia.go.kr/livestock/clean/listTcsjWebAction.do?clear=1)입니다.
 정리된 데이터는
 [깃헙](https://github.com/veganstudies/stats/blob/master/slaughter-kr.csv)에
-공유했어요.
+공유했습니다.
 
 ## 요약
 
